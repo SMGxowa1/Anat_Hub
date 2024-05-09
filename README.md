@@ -23,10 +23,11 @@ Personalized learning recommendations are provided based on users' quiz results 
 
 
 ## 3D Mode Gif:
-![H T_3D Tutorial](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/2d68c186-a832-4a83-b9f2-e7cad7dc2a69)
+![HT_3DTutorial-ezgif com-optimize](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/fca5bfb2-8f44-4767-b66b-fb7199c5d4d2)
 
 ## AR Mode Gif:
-![H T_AR Tutorial](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/4bd58876-6b29-4fe2-8113-5ade7092a9fc)
+
+![ezgif com-animated-gif-maker](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/6e9e0f98-f82b-4ba4-a51b-fbceab695bbf)
 
 ## SDK: https://drive.google.com/file/d/1jflYrZramXuKWfGYDIU_mbn0caLQFYdm/view?usp=drive_link
 
