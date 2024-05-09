@@ -28,4 +28,5 @@ Personalized learning recommendations are provided based on users' quiz results 
 ## AR Mode Gif:
 ![H T_AR Tutorial](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/4bd58876-6b29-4fe2-8113-5ade7092a9fc)
 
+## SDK: https://drive.google.com/file/d/1jflYrZramXuKWfGYDIU_mbn0caLQFYdm/view?usp=drive_link
 
