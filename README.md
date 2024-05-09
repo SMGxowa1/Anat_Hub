@@ -1,4 +1,4 @@
-![H T_AR Tutorial (1) (1)](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/2d673b2a-0c36-4809-a920-1491e6f4318c)# Anat_Hub
+![H T_AR Tutorial (1) (1)](https://github.com/SMGxowa1/Anat_Hub/assets/160002255/2d673b2a-0c36-4809-a920-1491e6f4318c)# 
  Project Title: Anat_Hub: Immersive AR Learning App for Human Musculoskeletal System
 
 Project Description:
